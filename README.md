@@ -6,7 +6,7 @@ Start here if you are new to programming. These two lessons introduce C through 
 
 ## What to do first
 
-1. Download this `student` folder and keep the lesson folders together.
+1. Download this repository using **Code → Download ZIP**, then keep the lesson folders together.
 2. Open the current lesson's `resources` slide deck before class or when revising.
 3. In the lab, open the lesson's `lab/README.md` and follow its checkpoints in order.
 4. Open the `lab` folder in VS Code. Edit a **copy** of the starter `.c` file so you can return to the original if needed.
